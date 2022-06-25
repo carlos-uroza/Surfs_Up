@@ -29,4 +29,4 @@ In summary, our program provides a high-level seasonality study of temperature d
 It is suggested that the board examine another query for June & December temperatures that returns only measurements from station "USC00519281". This query would provide granular insight in to the local conditions of the specific site that W. Avy is interested in.
 
 ### Suggestion #2
-Another query that could benefit the board's decision would be to query the June & December precipitation data from station "USC00519281". This query would provide a comparison of the local conditions with respect to the rest of the island.
+Another query that could benefit the board's decision would be to query the June & December precipitation data from station "USC00519281". This query would provide insight into an additional relevant risk factor that could impact the shop's sales.
